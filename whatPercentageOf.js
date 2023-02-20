@@ -8,5 +8,3 @@ function whatPercentageOf(num, percentageOf){
     return answer;
 
 }
-
-whatPercentageOf(30, 62.5);
